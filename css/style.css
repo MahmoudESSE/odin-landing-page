@@ -149,3 +149,31 @@ landing-information-title {
   align-self: flex-end;
   font-size: 16px;
 }
+
+.landing-call {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.landing-call-container {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #3882f6;
+  margin: 24px;
+  padding: 16px;
+  border-radius: 8px;
+  color: #e5e7eb;
+}
+
+.landing-call-signup {
+  color: #e5e7eb;
+  border: 2px solid #e5e7eb;
+  background-color: #3882f6;
+  border-radius: 8px;
+  padding: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
