@@ -177,3 +177,11 @@ landing-information-title {
   padding-left: 16px;
   padding-right: 16px;
 }
+
+.landing-footer {
+  color: #e5e7eb;
+  background-color: #1f2937;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
